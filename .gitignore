@@ -1,0 +1,5 @@
+# Folders to ignore
+datasets/
+Figures/
+MathSolver/
+.idea/
